@@ -1,10 +1,13 @@
 # Santiago Toledo-Cortés
 
 Ph.D (C) in Systems Engineering and Computer Science
+Asst. Professor
+Universidad de La Sabana - Chía
+santiagotoco@unisabana.edu.co
+**Logistic Systems** Research Group
+
 Universidad Nacional de Colombia - Bogotá
-
 stoledoc@unal.edu.co
-
 **MindLab** - Machine learning, perception and discovery Lab
 
 http://www.ingenieria.unal.edu.co/mindlab/
