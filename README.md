@@ -8,7 +8,7 @@ Universidad de La Sabana - Chía
 
 santiagotoco@unisabana.edu.co
 
-**Logistic Systems** Research Group
+**CAPSAB** - Control and Process Automation Research Group
 
 Universidad Nacional de Colombia - Bogotá
 
