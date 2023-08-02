@@ -30,13 +30,13 @@ http://www.ingenieria.unal.edu.co/mindlab/
 
 ## Contact
 
-**e-mail** stoledoc@unal.edu.co
+**e-mail** santiagotoco@unisabana.edu.co
 
-**Webpage** https://sites.google.com/unal.edu.co/santiagotoledo-cortes
+**Webpage** https://sites.google.com/unal.edu.co/santiagotoledo-cortes](https://sites.google.com/view/santiagotoledo-cortes/
 
 **ResearchGate** https://www.researchgate.net/profile/Santiago-Toledo-Cortes
 
-**LinkedIn** https://www.linkedin.com/in/santiago-toledo-cort%C3%A9s-66964a54/
+**LinkedIn** https://www.linkedin.com/in/santiago-toledo-cortes/
 
 <!---
 stoledoc/stoledoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
