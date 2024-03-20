@@ -1,6 +1,6 @@
 # Santiago Toledo-Cortés
 
-Ph.D (C) in Systems Engineering and Computer Science
+Ph.D. in Systems Engineering and Computer Science
 
 Asst. Professor
 
